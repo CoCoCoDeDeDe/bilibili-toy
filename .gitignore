@@ -1,6 +1,5 @@
-
 #///////////////////////////
-# Cocos Creator 3D Project
+# Cocos Creator
 #///////////////////////////
 library/
 temp/
@@ -8,17 +7,27 @@ local/
 build/
 profiles/
 native
+
+# Local editor cache
+.creator/
+
+# OS junk
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Logs
+*.log
+
 #//////////////////////////
 # NPM
 #//////////////////////////
 node_modules/
 
 #//////////////////////////
-# VSCode
+# IDE
 #//////////////////////////
 .vscode/
-
-#//////////////////////////
-# WebStorm
-#//////////////////////////
 .idea/
+*.iml
