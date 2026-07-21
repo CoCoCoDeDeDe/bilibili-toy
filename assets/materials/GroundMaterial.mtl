@@ -1,0 +1,30 @@
+[
+  {
+    "__type__": "cc.Material",
+    "_name": "GroundMaterial",
+    "_objFlags": 0,
+    "_native": "",
+    "_effectAsset": {
+      "__uuid__": "d0c542cb-7ac2-4d3c-a09c-53f50d3e8d54"
+    },
+    "_defines": {},
+    "_states": {},
+    "_props": {
+      "mainColor": {
+        "__type__": "cc.Color",
+        "r": 196,
+        "g": 168,
+        "b": 130,
+        "a": 255
+      },
+      "albedo": {
+        "__type__": "cc.Color",
+        "r": 196,
+        "g": 168,
+        "b": 130,
+        "a": 255
+      }
+    },
+    "_techniqueData": {}
+  }
+]
