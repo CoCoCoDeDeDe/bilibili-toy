@@ -1,0 +1,76 @@
+{
+  "ver": "2.3.13",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "428b404f-4de7-454b-8082-7841ccd1e725",
+  "files": [],
+  "subMetas": {
+    "5c484": {
+      "importer": "gltf-mesh",
+      "uuid": "428b404f-4de7-454b-8082-7841ccd1e725@5c484",
+      "displayName": "",
+      "id": "5c484",
+      "name": "SM_StreetLamp_02.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 850
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f0843": {
+      "importer": "gltf-scene",
+      "uuid": "428b404f-4de7-454b-8082-7841ccd1e725@f0843",
+      "displayName": "",
+      "id": "f0843",
+      "name": "lod_1.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "assetFinder": {
+      "meshes": [
+        "428b404f-4de7-454b-8082-7841ccd1e725@5c484"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "428b404f-4de7-454b-8082-7841ccd1e725@f0843"
+      ]
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "mountAllAnimationsOnPrefab": true
+  }
+}

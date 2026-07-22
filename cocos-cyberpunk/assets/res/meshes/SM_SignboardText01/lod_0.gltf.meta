@@ -1,0 +1,78 @@
+{
+  "ver": "2.3.13",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "322e2a9e-af83-485f-bc82-9f9ae4ec09bf",
+  "files": [],
+  "subMetas": {
+    "63560": {
+      "importer": "gltf-mesh",
+      "uuid": "322e2a9e-af83-485f-bc82-9f9ae4ec09bf@63560",
+      "displayName": "",
+      "id": "63560",
+      "name": "SM_SignboardText01.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 904
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9d156": {
+      "importer": "gltf-scene",
+      "uuid": "322e2a9e-af83-485f-bc82-9f9ae4ec09bf@9d156",
+      "displayName": "",
+      "id": "9d156",
+      "name": "lod_0.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "assetFinder": {
+      "meshes": [
+        "322e2a9e-af83-485f-bc82-9f9ae4ec09bf@63560"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "322e2a9e-af83-485f-bc82-9f9ae4ec09bf@9d156"
+      ]
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "mountAllAnimationsOnPrefab": true
+  }
+}

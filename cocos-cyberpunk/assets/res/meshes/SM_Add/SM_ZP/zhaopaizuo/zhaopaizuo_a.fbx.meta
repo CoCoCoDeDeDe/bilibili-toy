@@ -1,0 +1,98 @@
+{
+  "ver": "2.3.13",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "52f888ea-2a52-42ee-979f-048b09969ee5",
+  "files": [],
+  "subMetas": {
+    "0dbf2": {
+      "importer": "gltf-mesh",
+      "uuid": "52f888ea-2a52-42ee-979f-048b09969ee5@0dbf2",
+      "displayName": "",
+      "id": "0dbf2",
+      "name": "a4.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 108
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8d883": {
+      "importer": "gltf-material",
+      "uuid": "52f888ea-2a52-42ee-979f-048b09969ee5@8d883",
+      "displayName": "",
+      "id": "8d883",
+      "name": "lambert1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5a00f": {
+      "importer": "gltf-scene",
+      "uuid": "52f888ea-2a52-42ee-979f-048b09969ee5@5a00f",
+      "displayName": "",
+      "id": "5a00f",
+      "name": "zhaopaizuo_a.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true,
+      "matchMeshNames": false
+    },
+    "assetFinder": {
+      "meshes": [
+        "52f888ea-2a52-42ee-979f-048b09969ee5@0dbf2"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "52f888ea-2a52-42ee-979f-048b09969ee5@8d883"
+      ],
+      "scenes": [
+        "52f888ea-2a52-42ee-979f-048b09969ee5@5a00f"
+      ]
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "mountAllAnimationsOnPrefab": true
+  }
+}

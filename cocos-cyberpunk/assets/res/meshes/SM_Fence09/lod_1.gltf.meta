@@ -1,0 +1,76 @@
+{
+  "ver": "2.3.13",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "d92ab113-cb62-4f5a-8d49-ff4612403a3e",
+  "files": [],
+  "subMetas": {
+    "bb33b": {
+      "importer": "gltf-mesh",
+      "uuid": "d92ab113-cb62-4f5a-8d49-ff4612403a3e@bb33b",
+      "displayName": "",
+      "id": "bb33b",
+      "name": "SM_Fence09.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 204
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f0843": {
+      "importer": "gltf-scene",
+      "uuid": "d92ab113-cb62-4f5a-8d49-ff4612403a3e@f0843",
+      "displayName": "",
+      "id": "f0843",
+      "name": "lod_1.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "assetFinder": {
+      "meshes": [
+        "d92ab113-cb62-4f5a-8d49-ff4612403a3e@bb33b"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "d92ab113-cb62-4f5a-8d49-ff4612403a3e@f0843"
+      ]
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "mountAllAnimationsOnPrefab": true
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "ver": "2.3.13",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "808f31c3-855c-47a9-af63-fccd41cc186c",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "624ab": {
+      "importer": "gltf-animation",
+      "uuid": "808f31c3-855c-47a9-af63-fccd41cc186c@624ab",
+      "displayName": "",
+      "id": "624ab",
+      "name": "aim_n_runpose_l.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.03333333507180214
+        },
+        "events": [],
+        "embeddedPlayers": [],
+        "editorExtras": {
+          "embeddedPlayerGroups": []
+        },
+        "speed": 1,
+        "auxiliaryCurves": {
+          "weight_gait": {
+            "curve": {
+              "__type__": "cc.RealCurve",
+              "_times": [
+                0
+              ],
+              "_values": [
+                {
+                  "__type__": "cc.RealKeyframeValue",
+                  "interpolationMode": 0,
+                  "tangentWeightMode": 0,
+                  "value": 2,
+                  "rightTangent": 0,
+                  "rightTangentWeight": 1,
+                  "leftTangent": 0,
+                  "leftTangentWeight": 1,
+                  "easingMethod": 0,
+                  "__editorExtras__": null
+                }
+              ],
+              "preExtrapolation": 1,
+              "postExtrapolation": 1
+            }
+          }
+        }
+      },
+      "ver": "1.0.17",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "0606c": {
+      "importer": "gltf-scene",
+      "uuid": "808f31c3-855c-47a9-af63-fccd41cc186c@0606c",
+      "displayName": "",
+      "id": "0606c",
+      "name": "aim@aim_n_runpose_l.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true,
+      "matchMeshNames": false
+    },
+    "animationImportSettings": [
+      {
+        "name": "Unreal Take",
+        "duration": 0.03333333507180214,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "aim_n_runpose_l",
+            "from": 0,
+            "to": 0.03333333507180214,
+            "wrapMode": 2,
+            "previousId": "624ab"
+          }
+        ]
+      }
+    ],
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "808f31c3-855c-47a9-af63-fccd41cc186c@0606c"
+      ]
+    },
+    "mountAllAnimationsOnPrefab": true,
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    }
+  }
+}

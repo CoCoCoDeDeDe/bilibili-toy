@@ -1,0 +1,282 @@
+{
+  "ver": "2.3.13",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "662b3321-871f-48ca-a610-6f6dcc66c208",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "f7f8a": {
+      "importer": "gltf-animation",
+      "uuid": "662b3321-871f-48ca-a610-6f6dcc66c208@f7f8a",
+      "displayName": "",
+      "id": "f7f8a",
+      "name": "aim_n_walk_rf.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.1333333253860474
+        },
+        "events": [],
+        "embeddedPlayers": [],
+        "editorExtras": {
+          "embeddedPlayerGroups": []
+        },
+        "speed": 1,
+        "auxiliaryCurves": {
+          "feet_crossing": {
+            "curve": {
+              "__type__": "cc.RealCurve",
+              "_times": [
+                0,
+                0.3,
+                0.8
+              ],
+              "_values": [
+                {
+                  "__type__": "cc.RealKeyframeValue",
+                  "interpolationMode": 1,
+                  "tangentWeightMode": 0,
+                  "value": 1,
+                  "rightTangent": 0,
+                  "rightTangentWeight": 1,
+                  "leftTangent": 0,
+                  "leftTangentWeight": 1,
+                  "easingMethod": 0,
+                  "__editorExtras__": null
+                },
+                {
+                  "__type__": "cc.RealKeyframeValue",
+                  "interpolationMode": 1,
+                  "tangentWeightMode": 0,
+                  "value": 0,
+                  "rightTangent": 0,
+                  "rightTangentWeight": 1,
+                  "leftTangent": 0,
+                  "leftTangentWeight": 1,
+                  "easingMethod": 0,
+                  "__editorExtras__": null
+                },
+                {
+                  "__type__": "cc.RealKeyframeValue",
+                  "interpolationMode": 0,
+                  "tangentWeightMode": 0,
+                  "value": 1,
+                  "rightTangent": 0,
+                  "rightTangentWeight": 1,
+                  "leftTangent": 0,
+                  "leftTangentWeight": 1,
+                  "easingMethod": 0,
+                  "__editorExtras__": null
+                }
+              ],
+              "preExtrapolation": 1,
+              "postExtrapolation": 1
+            }
+          },
+          "feet_position": {
+            "curve": {
+              "__type__": "cc.RealCurve",
+              "_times": [
+                0,
+                0.23333333333333334,
+                0.43333333333333335,
+                0.7666666666666667,
+                1
+              ],
+              "_values": [
+                {
+                  "__type__": "cc.RealKeyframeValue",
+                  "interpolationMode": 1,
+                  "tangentWeightMode": 0,
+                  "value": -0.2,
+                  "rightTangent": 0,
+                  "rightTangentWeight": 1,
+                  "leftTangent": 0,
+                  "leftTangentWeight": 1,
+                  "easingMethod": 0,
+                  "__editorExtras__": null
+                },
+                {
+                  "__type__": "cc.RealKeyframeValue",
+                  "interpolationMode": 1,
+                  "tangentWeightMode": 0,
+                  "value": -1,
+                  "rightTangent": 0,
+                  "rightTangentWeight": 1,
+                  "leftTangent": 0,
+                  "leftTangentWeight": 1,
+                  "easingMethod": 0,
+                  "__editorExtras__": null
+                },
+                {
+                  "__type__": "cc.RealKeyframeValue",
+                  "interpolationMode": 1,
+                  "tangentWeightMode": 0,
+                  "value": 0.2,
+                  "rightTangent": 0,
+                  "rightTangentWeight": 1,
+                  "leftTangent": 0,
+                  "leftTangentWeight": 1,
+                  "easingMethod": 0,
+                  "__editorExtras__": null
+                },
+                {
+                  "__type__": "cc.RealKeyframeValue",
+                  "interpolationMode": 1,
+                  "tangentWeightMode": 0,
+                  "value": 1,
+                  "rightTangent": 0,
+                  "rightTangentWeight": 1,
+                  "leftTangent": 0,
+                  "leftTangentWeight": 1,
+                  "easingMethod": 0,
+                  "__editorExtras__": null
+                },
+                {
+                  "__type__": "cc.RealKeyframeValue",
+                  "interpolationMode": 0,
+                  "tangentWeightMode": 0,
+                  "value": -0.2,
+                  "rightTangent": 0,
+                  "rightTangentWeight": 1,
+                  "leftTangent": 0,
+                  "leftTangentWeight": 1,
+                  "easingMethod": 0,
+                  "__editorExtras__": null
+                }
+              ],
+              "preExtrapolation": 1,
+              "postExtrapolation": 1
+            }
+          },
+          "weight_gait": {
+            "curve": {
+              "__type__": "cc.RealCurve",
+              "_times": [
+                0
+              ],
+              "_values": [
+                {
+                  "__type__": "cc.RealKeyframeValue",
+                  "interpolationMode": 0,
+                  "tangentWeightMode": 0,
+                  "value": 1,
+                  "rightTangent": 0,
+                  "rightTangentWeight": 1,
+                  "leftTangent": 0,
+                  "leftTangentWeight": 1,
+                  "easingMethod": 0,
+                  "__editorExtras__": null
+                }
+              ],
+              "preExtrapolation": 1,
+              "postExtrapolation": 1
+            }
+          },
+          "layering_legs": {
+            "curve": {
+              "__type__": "cc.RealCurve",
+              "_times": [
+                0
+              ],
+              "_values": [
+                {
+                  "__type__": "cc.RealKeyframeValue",
+                  "interpolationMode": 0,
+                  "tangentWeightMode": 0,
+                  "value": -1,
+                  "rightTangent": 0,
+                  "rightTangentWeight": 1,
+                  "leftTangent": 0,
+                  "leftTangentWeight": 1,
+                  "easingMethod": 0,
+                  "__editorExtras__": null
+                }
+              ],
+              "preExtrapolation": 1,
+              "postExtrapolation": 1
+            }
+          }
+        }
+      },
+      "ver": "1.0.17",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "a8a2d": {
+      "importer": "gltf-scene",
+      "uuid": "662b3321-871f-48ca-a610-6f6dcc66c208@a8a2d",
+      "displayName": "",
+      "id": "a8a2d",
+      "name": "aim@aim_n_walk_rf.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true,
+      "matchMeshNames": false
+    },
+    "animationImportSettings": [
+      {
+        "name": "Unreal Take",
+        "duration": 1.1333333253860474,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "aim_n_walk_rf",
+            "from": 0,
+            "to": 1.1333333253860474,
+            "wrapMode": 2,
+            "previousId": "f7f8a"
+          }
+        ]
+      }
+    ],
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "662b3321-871f-48ca-a610-6f6dcc66c208@a8a2d"
+      ]
+    },
+    "mountAllAnimationsOnPrefab": true,
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    }
+  }
+}

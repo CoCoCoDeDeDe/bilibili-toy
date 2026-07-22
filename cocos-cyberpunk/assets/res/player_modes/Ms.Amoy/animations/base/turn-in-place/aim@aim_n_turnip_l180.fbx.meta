@@ -1,0 +1,360 @@
+{
+  "ver": "2.3.13",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "c4078531-7442-4845-a622-d16ace37e224",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "f2fdb": {
+      "importer": "gltf-animation",
+      "uuid": "c4078531-7442-4845-a622-d16ace37e224@f2fdb",
+      "displayName": "",
+      "id": "f2fdb",
+      "name": "aim_n_turnip_l180.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 2
+        },
+        "events": [],
+        "embeddedPlayers": [],
+        "editorExtras": {
+          "embeddedPlayerGroups": []
+        },
+        "speed": 1,
+        "auxiliaryCurves": {
+          "foot_lock_l": {
+            "curve": {
+              "__type__": "cc.RealCurve",
+              "_times": [
+                0.3333333333333333,
+                0.7333333333333333,
+                0.8333333333333334,
+                1.3333333333333333,
+                1.7,
+                1.8333333333333333
+              ],
+              "_values": [
+                {
+                  "__type__": "cc.RealKeyframeValue",
+                  "interpolationMode": 2,
+                  "tangentWeightMode": 0,
+                  "value": 1,
+                  "rightTangent": 0,
+                  "rightTangentWeight": 1,
+                  "leftTangent": 0,
+                  "leftTangentWeight": 1,
+                  "easingMethod": 0,
+                  "__editorExtras__": null
+                },
+                {
+                  "__type__": "cc.RealKeyframeValue",
+                  "interpolationMode": 1,
+                  "tangentWeightMode": 0,
+                  "value": 0,
+                  "rightTangent": 0,
+                  "rightTangentWeight": 1,
+                  "leftTangent": 0,
+                  "leftTangentWeight": 1,
+                  "easingMethod": 0,
+                  "__editorExtras__": null
+                },
+                {
+                  "__type__": "cc.RealKeyframeValue",
+                  "interpolationMode": 0,
+                  "tangentWeightMode": 0,
+                  "value": 1,
+                  "rightTangent": 0,
+                  "rightTangentWeight": 1,
+                  "leftTangent": 0,
+                  "leftTangentWeight": 1,
+                  "easingMethod": 0,
+                  "__editorExtras__": null
+                },
+                {
+                  "__type__": "cc.RealKeyframeValue",
+                  "interpolationMode": 2,
+                  "tangentWeightMode": 0,
+                  "value": 1,
+                  "rightTangent": 0,
+                  "rightTangentWeight": 1,
+                  "leftTangent": 0,
+                  "leftTangentWeight": 1,
+                  "easingMethod": 0,
+                  "__editorExtras__": null
+                },
+                {
+                  "__type__": "cc.RealKeyframeValue",
+                  "interpolationMode": 1,
+                  "tangentWeightMode": 0,
+                  "value": 0,
+                  "rightTangent": 0,
+                  "rightTangentWeight": 1,
+                  "leftTangent": 0,
+                  "leftTangentWeight": 1,
+                  "easingMethod": 0,
+                  "__editorExtras__": null
+                },
+                {
+                  "__type__": "cc.RealKeyframeValue",
+                  "interpolationMode": 0,
+                  "tangentWeightMode": 0,
+                  "value": 1,
+                  "rightTangent": 0,
+                  "rightTangentWeight": 1,
+                  "leftTangent": 0,
+                  "leftTangentWeight": 1,
+                  "easingMethod": 0,
+                  "__editorExtras__": null
+                }
+              ],
+              "preExtrapolation": 1,
+              "postExtrapolation": 1
+            }
+          },
+          "foot_lock_r": {
+            "curve": {
+              "__type__": "cc.RealCurve",
+              "_times": [
+                0.7333333333333333,
+                1.3333333333333333,
+                1.3666666666666667
+              ],
+              "_values": [
+                {
+                  "__type__": "cc.RealKeyframeValue",
+                  "interpolationMode": 2,
+                  "tangentWeightMode": 0,
+                  "value": 1,
+                  "rightTangent": 0,
+                  "rightTangentWeight": 1,
+                  "leftTangent": 0,
+                  "leftTangentWeight": 1,
+                  "easingMethod": 0,
+                  "__editorExtras__": null
+                },
+                {
+                  "__type__": "cc.RealKeyframeValue",
+                  "interpolationMode": 1,
+                  "tangentWeightMode": 0,
+                  "value": 0,
+                  "rightTangent": 0,
+                  "rightTangentWeight": 1,
+                  "leftTangent": 0,
+                  "leftTangentWeight": 1,
+                  "easingMethod": 0,
+                  "__editorExtras__": null
+                },
+                {
+                  "__type__": "cc.RealKeyframeValue",
+                  "interpolationMode": 0,
+                  "tangentWeightMode": 0,
+                  "value": 1,
+                  "rightTangent": 0,
+                  "rightTangentWeight": 1,
+                  "leftTangent": 0,
+                  "leftTangentWeight": 1,
+                  "easingMethod": 0,
+                  "__editorExtras__": null
+                }
+              ],
+              "preExtrapolation": 1,
+              "postExtrapolation": 1
+            }
+          },
+          "layering_legs": {
+            "curve": {
+              "__type__": "cc.RealCurve",
+              "_times": [
+                0.3333333333333333,
+                0.7,
+                0.8666666666666667,
+                1.2333333333333334
+              ],
+              "_values": [
+                {
+                  "__type__": "cc.RealKeyframeValue",
+                  "interpolationMode": 2,
+                  "tangentWeightMode": 0,
+                  "value": 0,
+                  "rightTangent": 0,
+                  "rightTangentWeight": 1,
+                  "leftTangent": 0,
+                  "leftTangentWeight": 1,
+                  "easingMethod": 0,
+                  "__editorExtras__": null
+                },
+                {
+                  "__type__": "cc.RealKeyframeValue",
+                  "interpolationMode": 0,
+                  "tangentWeightMode": 0,
+                  "value": -1,
+                  "rightTangent": 0,
+                  "rightTangentWeight": 1,
+                  "leftTangent": 0,
+                  "leftTangentWeight": 1,
+                  "easingMethod": 0,
+                  "__editorExtras__": null
+                },
+                {
+                  "__type__": "cc.RealKeyframeValue",
+                  "interpolationMode": 2,
+                  "tangentWeightMode": 0,
+                  "value": -1,
+                  "rightTangent": 0,
+                  "rightTangentWeight": 1,
+                  "leftTangent": 0,
+                  "leftTangentWeight": 1,
+                  "easingMethod": 0,
+                  "__editorExtras__": null
+                },
+                {
+                  "__type__": "cc.RealKeyframeValue",
+                  "interpolationMode": 0,
+                  "tangentWeightMode": 0,
+                  "value": 0,
+                  "rightTangent": 0,
+                  "rightTangentWeight": 1,
+                  "leftTangent": 0,
+                  "leftTangentWeight": 1,
+                  "easingMethod": 0,
+                  "__editorExtras__": null
+                }
+              ],
+              "preExtrapolation": 1,
+              "postExtrapolation": 1
+            }
+          },
+          "rotation_amount": {
+            "curve": {
+              "__type__": "cc.RealCurve",
+              "_times": [
+                0,
+                0.6333333333333333,
+                1.4
+              ],
+              "_values": [
+                {
+                  "__type__": "cc.RealKeyframeValue",
+                  "interpolationMode": 2,
+                  "tangentWeightMode": 0,
+                  "value": 0,
+                  "rightTangent": 0,
+                  "rightTangentWeight": 1,
+                  "leftTangent": 0,
+                  "leftTangentWeight": 1,
+                  "easingMethod": 0,
+                  "__editorExtras__": null
+                },
+                {
+                  "__type__": "cc.RealKeyframeValue",
+                  "interpolationMode": 2,
+                  "tangentWeightMode": 0,
+                  "value": -8,
+                  "rightTangent": 0,
+                  "rightTangentWeight": 1,
+                  "leftTangent": 0,
+                  "leftTangentWeight": 1,
+                  "easingMethod": 0,
+                  "__editorExtras__": null
+                },
+                {
+                  "__type__": "cc.RealKeyframeValue",
+                  "interpolationMode": 0,
+                  "tangentWeightMode": 0,
+                  "value": 0,
+                  "rightTangent": 0,
+                  "rightTangentWeight": 1,
+                  "leftTangent": 0,
+                  "leftTangentWeight": 1,
+                  "easingMethod": 0,
+                  "__editorExtras__": null
+                }
+              ],
+              "preExtrapolation": 1,
+              "postExtrapolation": 1
+            }
+          }
+        }
+      },
+      "ver": "1.0.17",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "157c5": {
+      "importer": "gltf-scene",
+      "uuid": "c4078531-7442-4845-a622-d16ace37e224@157c5",
+      "displayName": "",
+      "id": "157c5",
+      "name": "aim@aim_n_turnip_l180.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true,
+      "matchMeshNames": false
+    },
+    "animationImportSettings": [
+      {
+        "name": "Unreal Take",
+        "duration": 2,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "aim_n_turnip_l180",
+            "from": 0,
+            "to": 2,
+            "wrapMode": 2,
+            "previousId": "f2fdb"
+          }
+        ]
+      }
+    ],
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "c4078531-7442-4845-a622-d16ace37e224@157c5"
+      ]
+    },
+    "mountAllAnimationsOnPrefab": true,
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    }
+  }
+}

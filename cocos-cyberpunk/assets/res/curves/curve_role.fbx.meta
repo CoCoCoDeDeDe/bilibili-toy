@@ -1,0 +1,138 @@
+{
+  "ver": "2.3.13",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "4bbc3066-b537-4038-b3a0-bf2fc7529536",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "12250": {
+      "importer": "gltf-scene",
+      "uuid": "4bbc3066-b537-4038-b3a0-bf2fc7529536@12250",
+      "displayName": "",
+      "id": "12250",
+      "name": "curve_role.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2f6d1": {
+      "importer": "gltf-mesh",
+      "uuid": "4bbc3066-b537-4038-b3a0-bf2fc7529536@2f6d1",
+      "displayName": "",
+      "id": "2f6d1",
+      "name": "Cube.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 12
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9a2f0": {
+      "importer": "gltf-animation",
+      "uuid": "4bbc3066-b537-4038-b3a0-bf2fc7529536@9a2f0",
+      "displayName": "",
+      "id": "9a2f0",
+      "name": "curve_move|curve_moveAction.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 2.4583332538604736
+        },
+        "events": []
+      },
+      "ver": "1.0.17",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "b4e6b": {
+      "importer": "gltf-material",
+      "uuid": "4bbc3066-b537-4038-b3a0-bf2fc7529536@b4e6b",
+      "displayName": "",
+      "id": "b4e6b",
+      "name": "Material.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true,
+      "matchMeshNames": false
+    },
+    "animationImportSettings": [
+      {
+        "name": "curve_move|curve_moveAction",
+        "duration": 2.4583332538604736,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "curve_move|curve_moveAction",
+            "from": 0,
+            "to": 2.4583332538604736,
+            "wrapMode": 2,
+            "previousId": "9a2f0"
+          }
+        ]
+      }
+    ],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "4bbc3066-b537-4038-b3a0-bf2fc7529536@2f6d1"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "4bbc3066-b537-4038-b3a0-bf2fc7529536@b4e6b"
+      ],
+      "scenes": [
+        "4bbc3066-b537-4038-b3a0-bf2fc7529536@12250"
+      ]
+    }
+  }
+}

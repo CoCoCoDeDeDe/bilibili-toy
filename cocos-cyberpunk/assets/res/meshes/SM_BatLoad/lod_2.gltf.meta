@@ -1,0 +1,76 @@
+{
+  "ver": "2.3.13",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "f262cdf2-9fc1-449d-8195-0ba9a822ec85",
+  "files": [],
+  "subMetas": {
+    "dc95d": {
+      "importer": "gltf-mesh",
+      "uuid": "f262cdf2-9fc1-449d-8195-0ba9a822ec85@dc95d",
+      "displayName": "",
+      "id": "dc95d",
+      "name": "SM_BatLoad.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 524
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "53b6b": {
+      "importer": "gltf-scene",
+      "uuid": "f262cdf2-9fc1-449d-8195-0ba9a822ec85@53b6b",
+      "displayName": "",
+      "id": "53b6b",
+      "name": "lod_2.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "assetFinder": {
+      "meshes": [
+        "f262cdf2-9fc1-449d-8195-0ba9a822ec85@dc95d"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "f262cdf2-9fc1-449d-8195-0ba9a822ec85@53b6b"
+      ]
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "mountAllAnimationsOnPrefab": true
+  }
+}

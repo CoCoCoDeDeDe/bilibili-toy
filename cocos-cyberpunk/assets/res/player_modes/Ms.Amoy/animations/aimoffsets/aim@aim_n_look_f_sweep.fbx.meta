@@ -1,0 +1,101 @@
+{
+  "ver": "2.3.13",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "24aedb63-95de-4c4d-8ad3-eaafa55150ae",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "f4b26": {
+      "importer": "gltf-animation",
+      "uuid": "24aedb63-95de-4c4d-8ad3-eaafa55150ae@f4b26",
+      "displayName": "",
+      "id": "f4b26",
+      "name": "aim_n_look_f_sweep.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1
+        },
+        "events": []
+      },
+      "ver": "1.0.17",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "76ca5": {
+      "importer": "gltf-scene",
+      "uuid": "24aedb63-95de-4c4d-8ad3-eaafa55150ae@76ca5",
+      "displayName": "",
+      "id": "76ca5",
+      "name": "aim@aim_n_look_f_sweep.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true,
+      "matchMeshNames": false
+    },
+    "animationImportSettings": [
+      {
+        "name": "Unreal Take",
+        "duration": 1,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "aim_n_look_f_sweep",
+            "from": 0,
+            "to": 1,
+            "wrapMode": 2,
+            "previousId": "f4b26"
+          }
+        ]
+      }
+    ],
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "24aedb63-95de-4c4d-8ad3-eaafa55150ae@76ca5"
+      ]
+    },
+    "mountAllAnimationsOnPrefab": true,
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    }
+  }
+}

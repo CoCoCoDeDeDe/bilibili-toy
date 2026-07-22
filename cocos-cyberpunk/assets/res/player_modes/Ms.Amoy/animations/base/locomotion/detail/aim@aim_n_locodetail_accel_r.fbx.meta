@@ -1,0 +1,145 @@
+{
+  "ver": "2.3.13",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "53f9d317-a07b-4f65-8787-13fd9aff7cc9",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "90cc8": {
+      "importer": "gltf-animation",
+      "uuid": "53f9d317-a07b-4f65-8787-13fd9aff7cc9@90cc8",
+      "displayName": "",
+      "id": "90cc8",
+      "name": "aim_n_locodetail_accel_r.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1
+        },
+        "events": [],
+        "embeddedPlayers": [],
+        "editorExtras": {
+          "embeddedPlayerGroups": []
+        },
+        "speed": 1,
+        "auxiliaryCurves": {
+          "mask_lean": {
+            "curve": {
+              "__type__": "cc.RealCurve",
+              "_times": [
+                0.4,
+                1
+              ],
+              "_values": [
+                {
+                  "__type__": "cc.RealKeyframeValue",
+                  "interpolationMode": 2,
+                  "tangentWeightMode": 0,
+                  "value": 1,
+                  "rightTangent": 0,
+                  "rightTangentWeight": 1,
+                  "leftTangent": 0,
+                  "leftTangentWeight": 1,
+                  "easingMethod": 0,
+                  "__editorExtras__": null
+                },
+                {
+                  "__type__": "cc.RealKeyframeValue",
+                  "interpolationMode": 0,
+                  "tangentWeightMode": 0,
+                  "value": 0,
+                  "rightTangent": 0,
+                  "rightTangentWeight": 1,
+                  "leftTangent": 0,
+                  "leftTangentWeight": 1,
+                  "easingMethod": 0,
+                  "__editorExtras__": null
+                }
+              ],
+              "preExtrapolation": 1,
+              "postExtrapolation": 1
+            }
+          }
+        }
+      },
+      "ver": "1.0.17",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "8587e": {
+      "importer": "gltf-scene",
+      "uuid": "53f9d317-a07b-4f65-8787-13fd9aff7cc9@8587e",
+      "displayName": "",
+      "id": "8587e",
+      "name": "aim@aim_n_locodetail_accel_r.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true,
+      "matchMeshNames": false
+    },
+    "animationImportSettings": [
+      {
+        "name": "Unreal Take",
+        "duration": 1,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "aim_n_locodetail_accel_r",
+            "from": 0,
+            "to": 1,
+            "wrapMode": 2,
+            "previousId": "90cc8"
+          }
+        ]
+      }
+    ],
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "53f9d317-a07b-4f65-8787-13fd9aff7cc9@8587e"
+      ]
+    },
+    "mountAllAnimationsOnPrefab": true,
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    }
+  }
+}

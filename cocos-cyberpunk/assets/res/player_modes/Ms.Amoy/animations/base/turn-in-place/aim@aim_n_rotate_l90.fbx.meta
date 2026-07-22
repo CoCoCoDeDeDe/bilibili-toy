@@ -1,0 +1,258 @@
+{
+  "ver": "2.3.13",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "ea20a2b6-b86a-4b4c-9fea-49beae9b93aa",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "47465": {
+      "importer": "gltf-animation",
+      "uuid": "ea20a2b6-b86a-4b4c-9fea-49beae9b93aa@47465",
+      "displayName": "",
+      "id": "47465",
+      "name": "aim_n_rotate_l90.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1
+        },
+        "events": [],
+        "embeddedPlayers": [],
+        "editorExtras": {
+          "embeddedPlayerGroups": []
+        },
+        "speed": 1,
+        "auxiliaryCurves": {
+          "foot_lock_l": {
+            "curve": {
+              "__type__": "cc.RealCurve",
+              "_times": [
+                0.03333333333333333,
+                0.4,
+                0.5
+              ],
+              "_values": [
+                {
+                  "__type__": "cc.RealKeyframeValue",
+                  "interpolationMode": 2,
+                  "tangentWeightMode": 0,
+                  "value": 1,
+                  "rightTangent": 0,
+                  "rightTangentWeight": 1,
+                  "leftTangent": 0,
+                  "leftTangentWeight": 1,
+                  "easingMethod": 0,
+                  "__editorExtras__": null
+                },
+                {
+                  "__type__": "cc.RealKeyframeValue",
+                  "interpolationMode": 1,
+                  "tangentWeightMode": 0,
+                  "value": 0,
+                  "rightTangent": 0,
+                  "rightTangentWeight": 1,
+                  "leftTangent": 0,
+                  "leftTangentWeight": 1,
+                  "easingMethod": 0,
+                  "__editorExtras__": null
+                },
+                {
+                  "__type__": "cc.RealKeyframeValue",
+                  "interpolationMode": 0,
+                  "tangentWeightMode": 0,
+                  "value": 1,
+                  "rightTangent": 0,
+                  "rightTangentWeight": 1,
+                  "leftTangent": 0,
+                  "leftTangentWeight": 1,
+                  "easingMethod": 0,
+                  "__editorExtras__": null
+                }
+              ],
+              "preExtrapolation": 1,
+              "postExtrapolation": 1
+            }
+          },
+          "foot_lock_r": {
+            "curve": {
+              "__type__": "cc.RealCurve",
+              "_times": [
+                0.5,
+                0.9,
+                0.9666666666666667
+              ],
+              "_values": [
+                {
+                  "__type__": "cc.RealKeyframeValue",
+                  "interpolationMode": 2,
+                  "tangentWeightMode": 0,
+                  "value": 1,
+                  "rightTangent": 0,
+                  "rightTangentWeight": 1,
+                  "leftTangent": 0,
+                  "leftTangentWeight": 1,
+                  "easingMethod": 0,
+                  "__editorExtras__": null
+                },
+                {
+                  "__type__": "cc.RealKeyframeValue",
+                  "interpolationMode": 1,
+                  "tangentWeightMode": 0,
+                  "value": 0,
+                  "rightTangent": 0,
+                  "rightTangentWeight": 1,
+                  "leftTangent": 0,
+                  "leftTangentWeight": 1,
+                  "easingMethod": 0,
+                  "__editorExtras__": null
+                },
+                {
+                  "__type__": "cc.RealKeyframeValue",
+                  "interpolationMode": 0,
+                  "tangentWeightMode": 0,
+                  "value": 1,
+                  "rightTangent": 0,
+                  "rightTangentWeight": 1,
+                  "leftTangent": 0,
+                  "leftTangentWeight": 1,
+                  "easingMethod": 0,
+                  "__editorExtras__": null
+                }
+              ],
+              "preExtrapolation": 1,
+              "postExtrapolation": 1
+            }
+          },
+          "rotation_amount": {
+            "curve": {
+              "__type__": "cc.RealCurve",
+              "_times": [
+                0,
+                0.3,
+                1
+              ],
+              "_values": [
+                {
+                  "__type__": "cc.RealKeyframeValue",
+                  "interpolationMode": 2,
+                  "tangentWeightMode": 0,
+                  "value": -0.6,
+                  "rightTangent": -41.40815785153466,
+                  "rightTangentWeight": 1,
+                  "leftTangent": -41.40815785153466,
+                  "leftTangentWeight": 1,
+                  "easingMethod": 0,
+                  "__editorExtras__": null
+                },
+                {
+                  "__type__": "cc.RealKeyframeValue",
+                  "interpolationMode": 2,
+                  "tangentWeightMode": 0,
+                  "value": -6.23,
+                  "rightTangent": 1.6006329340385816,
+                  "rightTangentWeight": 1,
+                  "leftTangent": 1.6006329340385816,
+                  "leftTangentWeight": 1,
+                  "easingMethod": 0,
+                  "__editorExtras__": null
+                },
+                {
+                  "__type__": "cc.RealKeyframeValue",
+                  "interpolationMode": 0,
+                  "tangentWeightMode": 0,
+                  "value": 0,
+                  "rightTangent": 0,
+                  "rightTangentWeight": 1,
+                  "leftTangent": 0,
+                  "leftTangentWeight": 1,
+                  "easingMethod": 0,
+                  "__editorExtras__": null
+                }
+              ],
+              "preExtrapolation": 1,
+              "postExtrapolation": 1
+            }
+          }
+        }
+      },
+      "ver": "1.0.17",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "9c6dc": {
+      "importer": "gltf-scene",
+      "uuid": "ea20a2b6-b86a-4b4c-9fea-49beae9b93aa@9c6dc",
+      "displayName": "",
+      "id": "9c6dc",
+      "name": "aim@aim_n_rotate_l90.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true,
+      "matchMeshNames": false
+    },
+    "animationImportSettings": [
+      {
+        "name": "Unreal Take",
+        "duration": 1,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "aim_n_rotate_l90",
+            "from": 0,
+            "to": 1,
+            "wrapMode": 2,
+            "previousId": "47465"
+          }
+        ]
+      }
+    ],
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "ea20a2b6-b86a-4b4c-9fea-49beae9b93aa@9c6dc"
+      ]
+    },
+    "mountAllAnimationsOnPrefab": true,
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    }
+  }
+}

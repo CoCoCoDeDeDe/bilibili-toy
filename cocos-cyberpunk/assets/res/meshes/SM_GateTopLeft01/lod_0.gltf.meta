@@ -1,0 +1,76 @@
+{
+  "ver": "2.3.13",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "a8e7ddad-b4f4-4140-8423-dc877d80a56e",
+  "files": [],
+  "subMetas": {
+    "243ab": {
+      "importer": "gltf-mesh",
+      "uuid": "a8e7ddad-b4f4-4140-8423-dc877d80a56e@243ab",
+      "displayName": "",
+      "id": "243ab",
+      "name": "SM_GateTopLeft01.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 2462
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9d156": {
+      "importer": "gltf-scene",
+      "uuid": "a8e7ddad-b4f4-4140-8423-dc877d80a56e@9d156",
+      "displayName": "",
+      "id": "9d156",
+      "name": "lod_0.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "assetFinder": {
+      "meshes": [
+        "a8e7ddad-b4f4-4140-8423-dc877d80a56e@243ab"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "a8e7ddad-b4f4-4140-8423-dc877d80a56e@9d156"
+      ]
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "mountAllAnimationsOnPrefab": true
+  }
+}

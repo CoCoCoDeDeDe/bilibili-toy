@@ -1,0 +1,76 @@
+{
+  "ver": "2.3.13",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "c952d5ff-b6ed-44d8-81be-b8f9941bf2da",
+  "files": [],
+  "subMetas": {
+    "a149f": {
+      "importer": "gltf-mesh",
+      "uuid": "c952d5ff-b6ed-44d8-81be-b8f9941bf2da@a149f",
+      "displayName": "",
+      "id": "a149f",
+      "name": "SM_BaseGate.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 110
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "53b6b": {
+      "importer": "gltf-scene",
+      "uuid": "c952d5ff-b6ed-44d8-81be-b8f9941bf2da@53b6b",
+      "displayName": "",
+      "id": "53b6b",
+      "name": "lod_2.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "assetFinder": {
+      "meshes": [
+        "c952d5ff-b6ed-44d8-81be-b8f9941bf2da@a149f"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "c952d5ff-b6ed-44d8-81be-b8f9941bf2da@53b6b"
+      ]
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "mountAllAnimationsOnPrefab": true
+  }
+}

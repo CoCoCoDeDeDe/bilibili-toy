@@ -1,0 +1,76 @@
+{
+  "ver": "2.3.13",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "58d9891e-1e46-41ff-8d92-e818e4591f53",
+  "files": [],
+  "subMetas": {
+    "d5211": {
+      "importer": "gltf-mesh",
+      "uuid": "58d9891e-1e46-41ff-8d92-e818e4591f53@d5211",
+      "displayName": "",
+      "id": "d5211",
+      "name": "HotelChina01.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 311
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "53b6b": {
+      "importer": "gltf-scene",
+      "uuid": "58d9891e-1e46-41ff-8d92-e818e4591f53@53b6b",
+      "displayName": "",
+      "id": "53b6b",
+      "name": "lod_2.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "assetFinder": {
+      "meshes": [
+        "58d9891e-1e46-41ff-8d92-e818e4591f53@d5211"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "58d9891e-1e46-41ff-8d92-e818e4591f53@53b6b"
+      ]
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "mountAllAnimationsOnPrefab": true
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "ver": "2.3.13",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "492d4a7f-c45d-4902-854d-91f6de0c8ba5",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "44923": {
+      "importer": "gltf-scene",
+      "uuid": "492d4a7f-c45d-4902-854d-91f6de0c8ba5@44923",
+      "displayName": "",
+      "id": "44923",
+      "name": "aim@aim_n_fallloop.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3128b": {
+      "importer": "gltf-animation",
+      "uuid": "492d4a7f-c45d-4902-854d-91f6de0c8ba5@3128b",
+      "displayName": "",
+      "id": "3128b",
+      "name": "aim_n_fallloop.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1
+        },
+        "events": []
+      },
+      "ver": "1.0.17",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true,
+      "matchMeshNames": false
+    },
+    "animationImportSettings": [
+      {
+        "name": "Unreal Take",
+        "duration": 1,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "aim_n_fallloop",
+            "from": 0,
+            "to": 1,
+            "wrapMode": 2,
+            "previousId": "3128b"
+          }
+        ]
+      }
+    ],
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "492d4a7f-c45d-4902-854d-91f6de0c8ba5@44923"
+      ]
+    },
+    "mountAllAnimationsOnPrefab": true,
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    }
+  }
+}

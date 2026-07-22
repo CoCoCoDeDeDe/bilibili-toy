@@ -1,0 +1,14 @@
+{
+  "creator": {
+    "version": "3.8.7"
+  },
+  "dependencies": {},
+  "description": "oops-framework",
+  "devDependencies": {
+    "@types/node": "^17.0.25"
+  },
+  "name": "oops-framework",
+  "uuid": "4b9e4d2b-5110-497c-8da7-890ac465e6af",
+  "_sourceId": "c30b28da-749e-479b-bcb6-cecd8d7be9e3",
+  "_storeId": "7f316d9740552e29f398a16f707520eb"
+}

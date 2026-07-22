@@ -1,0 +1,76 @@
+{
+  "ver": "2.3.13",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "437a7d34-c370-43fe-8b29-c8784b850ece",
+  "files": [],
+  "subMetas": {
+    "db81e": {
+      "importer": "gltf-mesh",
+      "uuid": "437a7d34-c370-43fe-8b29-c8784b850ece@db81e",
+      "displayName": "",
+      "id": "db81e",
+      "name": "SM_Column_04.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 1028
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f0843": {
+      "importer": "gltf-scene",
+      "uuid": "437a7d34-c370-43fe-8b29-c8784b850ece@f0843",
+      "displayName": "",
+      "id": "f0843",
+      "name": "lod_1.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "assetFinder": {
+      "meshes": [
+        "437a7d34-c370-43fe-8b29-c8784b850ece@db81e"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "437a7d34-c370-43fe-8b29-c8784b850ece@f0843"
+      ]
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "mountAllAnimationsOnPrefab": true
+  }
+}

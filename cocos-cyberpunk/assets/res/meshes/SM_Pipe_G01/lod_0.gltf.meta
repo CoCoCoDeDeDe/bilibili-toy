@@ -1,0 +1,76 @@
+{
+  "ver": "2.3.13",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "80c41f49-6054-48d1-8eba-924d6d11ec59",
+  "files": [],
+  "subMetas": {
+    "e14ba": {
+      "importer": "gltf-mesh",
+      "uuid": "80c41f49-6054-48d1-8eba-924d6d11ec59@e14ba",
+      "displayName": "",
+      "id": "e14ba",
+      "name": "SM_Pipe_G01.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 4816
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9d156": {
+      "importer": "gltf-scene",
+      "uuid": "80c41f49-6054-48d1-8eba-924d6d11ec59@9d156",
+      "displayName": "",
+      "id": "9d156",
+      "name": "lod_0.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "assetFinder": {
+      "meshes": [
+        "80c41f49-6054-48d1-8eba-924d6d11ec59@e14ba"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "80c41f49-6054-48d1-8eba-924d6d11ec59@9d156"
+      ]
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "mountAllAnimationsOnPrefab": true
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "ver": "2.3.13",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "7e44ab7c-7017-4f47-b138-0b96dea9aff2",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "5d9de": {
+      "importer": "gltf-animation",
+      "uuid": "7e44ab7c-7017-4f47-b138-0b96dea9aff2@5d9de",
+      "displayName": "",
+      "id": "5d9de",
+      "name": "aim_n_leanpose_0.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.03333333507180214
+        },
+        "events": [],
+        "additive": {
+          "baseClip": ""
+        }
+      },
+      "ver": "1.0.17",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "00528": {
+      "importer": "gltf-scene",
+      "uuid": "7e44ab7c-7017-4f47-b138-0b96dea9aff2@00528",
+      "displayName": "",
+      "id": "00528",
+      "name": "aim@aim_n_leanpose_0.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true,
+      "matchMeshNames": false
+    },
+    "animationImportSettings": [
+      {
+        "name": "Unreal Take",
+        "duration": 0.03333333507180214,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "aim_n_leanpose_0",
+            "from": 0,
+            "to": 0.03333333507180214,
+            "wrapMode": 2,
+            "additive": {
+              "baseClip": ""
+            },
+            "previousId": "5d9de"
+          }
+        ]
+      }
+    ],
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "7e44ab7c-7017-4f47-b138-0b96dea9aff2@00528"
+      ]
+    },
+    "mountAllAnimationsOnPrefab": true,
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "addVertexColor": false,
+    "generateLightmapUVNode": false,
+    "meshSimplify": {
+      "enable": false,
+      "targetRatio": 1
+    },
+    "meshOptimizer": {
+      "enable": false,
+      "algorithm": "simplify",
+      "simplifyOptions": {
+        "targetRatio": 1,
+        "enableSmartLink": true,
+        "agressiveness": 7,
+        "maxIterationCount": 100
+      }
+    }
+  }
+}

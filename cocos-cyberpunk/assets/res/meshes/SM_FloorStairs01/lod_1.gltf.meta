@@ -1,0 +1,76 @@
+{
+  "ver": "2.3.13",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "4516c40f-6b35-4f63-96e6-265964ced1bf",
+  "files": [],
+  "subMetas": {
+    "a96f8": {
+      "importer": "gltf-mesh",
+      "uuid": "4516c40f-6b35-4f63-96e6-265964ced1bf@a96f8",
+      "displayName": "",
+      "id": "a96f8",
+      "name": "SM_FloorStairs01.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 303
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f0843": {
+      "importer": "gltf-scene",
+      "uuid": "4516c40f-6b35-4f63-96e6-265964ced1bf@f0843",
+      "displayName": "",
+      "id": "f0843",
+      "name": "lod_1.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "assetFinder": {
+      "meshes": [
+        "4516c40f-6b35-4f63-96e6-265964ced1bf@a96f8"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "4516c40f-6b35-4f63-96e6-265964ced1bf@f0843"
+      ]
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "mountAllAnimationsOnPrefab": true
+  }
+}

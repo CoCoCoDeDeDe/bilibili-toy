@@ -1,0 +1,78 @@
+{
+  "ver": "2.3.13",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "fcbbdf6c-6c4e-4747-866b-4fa63f7d6af1",
+  "files": [],
+  "subMetas": {
+    "03aea": {
+      "importer": "gltf-mesh",
+      "uuid": "fcbbdf6c-6c4e-4747-866b-4fa63f7d6af1@03aea",
+      "displayName": "",
+      "id": "03aea",
+      "name": "SM_PlatformRailing_03.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 147
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f0843": {
+      "importer": "gltf-scene",
+      "uuid": "fcbbdf6c-6c4e-4747-866b-4fa63f7d6af1@f0843",
+      "displayName": "",
+      "id": "f0843",
+      "name": "lod_1.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "assetFinder": {
+      "meshes": [
+        "fcbbdf6c-6c4e-4747-866b-4fa63f7d6af1@03aea"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "fcbbdf6c-6c4e-4747-866b-4fa63f7d6af1@f0843"
+      ]
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "mountAllAnimationsOnPrefab": true
+  }
+}

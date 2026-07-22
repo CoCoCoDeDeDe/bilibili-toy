@@ -1,0 +1,101 @@
+{
+  "ver": "2.3.13",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "2f4c414b-ae13-4f73-abd3-dc46c6f57b25",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "865c5": {
+      "importer": "gltf-animation",
+      "uuid": "2f4c414b-ae13-4f73-abd3-dc46c6f57b25@865c5",
+      "displayName": "",
+      "id": "865c5",
+      "name": "Idle_Rifle_handgun_1.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 6.333333492279053
+        },
+        "events": []
+      },
+      "ver": "1.0.17",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "1f27d": {
+      "importer": "gltf-scene",
+      "uuid": "2f4c414b-ae13-4f73-abd3-dc46c6f57b25@1f27d",
+      "displayName": "",
+      "id": "1f27d",
+      "name": "MainHero@Idle_Rifle_handgun_1.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true,
+      "matchMeshNames": false
+    },
+    "animationImportSettings": [
+      {
+        "name": "MainHero@Idle_Rifle_Ironsights_handgun_1",
+        "duration": 6.333333492279053,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Idle_Rifle_handgun_1",
+            "from": 0,
+            "to": 6.333333492279053,
+            "wrapMode": 2,
+            "previousId": "865c5"
+          }
+        ]
+      }
+    ],
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "2f4c414b-ae13-4f73-abd3-dc46c6f57b25@1f27d"
+      ]
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "mountAllAnimationsOnPrefab": true
+  }
+}

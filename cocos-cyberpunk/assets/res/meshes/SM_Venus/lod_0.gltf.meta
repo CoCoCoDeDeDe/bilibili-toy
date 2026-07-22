@@ -1,0 +1,76 @@
+{
+  "ver": "2.3.13",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "7df7a6f7-ff89-44d1-adc7-95617fea8a3f",
+  "files": [],
+  "subMetas": {
+    "5db16": {
+      "importer": "gltf-mesh",
+      "uuid": "7df7a6f7-ff89-44d1-adc7-95617fea8a3f@5db16",
+      "displayName": "",
+      "id": "5db16",
+      "name": "SM_Venus.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 2134
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9d156": {
+      "importer": "gltf-scene",
+      "uuid": "7df7a6f7-ff89-44d1-adc7-95617fea8a3f@9d156",
+      "displayName": "",
+      "id": "9d156",
+      "name": "lod_0.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "assetFinder": {
+      "meshes": [
+        "7df7a6f7-ff89-44d1-adc7-95617fea8a3f@5db16"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "7df7a6f7-ff89-44d1-adc7-95617fea8a3f@9d156"
+      ]
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "mountAllAnimationsOnPrefab": true
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "ver": "2.3.13",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "153b8543-75cd-4ea8-9c0d-2fa7cf0f18a7",
+  "files": [],
+  "subMetas": {
+    "ffee7": {
+      "importer": "gltf-mesh",
+      "uuid": "153b8543-75cd-4ea8-9c0d-2fa7cf0f18a7@ffee7",
+      "displayName": "",
+      "id": "ffee7",
+      "name": "SM_Steps_05.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 516
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9d156": {
+      "importer": "gltf-scene",
+      "uuid": "153b8543-75cd-4ea8-9c0d-2fa7cf0f18a7@9d156",
+      "displayName": "",
+      "id": "9d156",
+      "name": "lod_0.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "assetFinder": {
+      "meshes": [
+        "153b8543-75cd-4ea8-9c0d-2fa7cf0f18a7@ffee7"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "153b8543-75cd-4ea8-9c0d-2fa7cf0f18a7@9d156"
+      ]
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "mountAllAnimationsOnPrefab": true
+  }
+}

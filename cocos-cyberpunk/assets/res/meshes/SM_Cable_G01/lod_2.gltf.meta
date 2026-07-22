@@ -1,0 +1,76 @@
+{
+  "ver": "2.3.13",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "09ad5418-b88c-4943-86f0-093ac4f07231",
+  "files": [],
+  "subMetas": {
+    "e141a": {
+      "importer": "gltf-mesh",
+      "uuid": "09ad5418-b88c-4943-86f0-093ac4f07231@e141a",
+      "displayName": "",
+      "id": "e141a",
+      "name": "SM_Cable_G01.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 1394
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "53b6b": {
+      "importer": "gltf-scene",
+      "uuid": "09ad5418-b88c-4943-86f0-093ac4f07231@53b6b",
+      "displayName": "",
+      "id": "53b6b",
+      "name": "lod_2.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "assetFinder": {
+      "meshes": [
+        "09ad5418-b88c-4943-86f0-093ac4f07231@e141a"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "09ad5418-b88c-4943-86f0-093ac4f07231@53b6b"
+      ]
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "mountAllAnimationsOnPrefab": true
+  }
+}

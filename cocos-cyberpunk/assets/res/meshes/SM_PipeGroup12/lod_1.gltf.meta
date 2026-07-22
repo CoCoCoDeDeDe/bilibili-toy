@@ -1,0 +1,78 @@
+{
+  "ver": "2.3.13",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "35b4b2e4-8117-46aa-9913-1bad046d7958",
+  "files": [],
+  "subMetas": {
+    "0f8fd": {
+      "importer": "gltf-mesh",
+      "uuid": "35b4b2e4-8117-46aa-9913-1bad046d7958@0f8fd",
+      "displayName": "",
+      "id": "0f8fd",
+      "name": "SM_PipeGroup12.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 2165
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f0843": {
+      "importer": "gltf-scene",
+      "uuid": "35b4b2e4-8117-46aa-9913-1bad046d7958@f0843",
+      "displayName": "",
+      "id": "f0843",
+      "name": "lod_1.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "assetFinder": {
+      "meshes": [
+        "35b4b2e4-8117-46aa-9913-1bad046d7958@0f8fd"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "35b4b2e4-8117-46aa-9913-1bad046d7958@f0843"
+      ]
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "mountAllAnimationsOnPrefab": true
+  }
+}

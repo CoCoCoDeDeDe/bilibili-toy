@@ -1,0 +1,76 @@
+{
+  "ver": "2.3.13",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "4fcfe577-6028-4ddd-b5f3-db56a810e056",
+  "files": [],
+  "subMetas": {
+    "a7e07": {
+      "importer": "gltf-mesh",
+      "uuid": "4fcfe577-6028-4ddd-b5f3-db56a810e056@a7e07",
+      "displayName": "",
+      "id": "a7e07",
+      "name": "SM_Car02.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 3096
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f0843": {
+      "importer": "gltf-scene",
+      "uuid": "4fcfe577-6028-4ddd-b5f3-db56a810e056@f0843",
+      "displayName": "",
+      "id": "f0843",
+      "name": "lod_1.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "assetFinder": {
+      "meshes": [
+        "4fcfe577-6028-4ddd-b5f3-db56a810e056@a7e07"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "4fcfe577-6028-4ddd-b5f3-db56a810e056@f0843"
+      ]
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "mountAllAnimationsOnPrefab": true
+  }
+}
