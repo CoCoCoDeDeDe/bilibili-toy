@@ -145,6 +145,7 @@
       "audio",
       "base",
       "custom-pipeline",
+      "custom-pipeline-post-process",
       "geometry-renderer",
       "gfx-webgl",
       "gfx-webgl2",
@@ -161,8 +162,7 @@
       "tween",
       "ui",
       "video",
-      "webview",
-      "custom-pipeline-post-process"
+      "webview"
     ],
     "noDeprecatedFeatures": {
       "value": false,
